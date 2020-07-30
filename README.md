@@ -3,7 +3,7 @@ PROBLEM STATEMENT Data base consisting of the details of an Outbreak in an area,
 
 BASIC IDEOLOGY 1.Our idea is to create three databases which hold the records of the follows : ◦ Database for Newly discovered Diseases, its treatment and its cure. ◦ Database of Pet Owners and Pet shop owners in which they will register themselves. ◦ Database of Doctors in which all the doctors register themselves. 2. There will be a section where Verified Doctors will give regular update as their post about Diseases and its precaution . 3. Whenever any new Disease is discover there will be a POP-UP in contact details of doctors and owners which was registered. 4. There will be a chat server for Doctors and owners for interaction between them . 5. There will also a Warning POP-UP whenever any chronic disease is spreading.
 
-TECH STACK • FRONT END • HTML • CSS • JAVA SCRIPT • JQUERY • JSOM
+TECH STACK • FRONT END • HTML • CSS • JAVA SCRIPT • JQUERY • JSON
 
 • DATABASE
 • MY SQL
